@@ -1,5 +1,8 @@
 # MountyDriveAssignment
-I have implemented list of movies in the app by importing JSON of topRatedMovies API and Upcoming movies API in Firebase Realtime database and displayed the details in by creating Custom RecyclerView and used FirebaseUI.
+Download MountyMovieList.zip file
+
+
+I have implemented list of movies in the  android app by importing JSON of topRatedMovies API and Upcoming movies API in Firebase Realtime database and displayed the details in by creating Custom RecyclerView and used FirebaseUI.
 
 Dependencies used :
 
